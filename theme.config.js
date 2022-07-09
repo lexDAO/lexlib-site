@@ -2,8 +2,8 @@
 import Head from "next/head"
 import Image from "next/image"
 export default {
-    projectLink: 'https://github.com/shuding/nextra', // GitHub link in the navbar
-    docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master', // base URL for the docs repository
+    projectLink: 'https://github.com/lexDAO/lexlib-site', // GitHub link in the navbar
+    docsRepositoryBase: 'https://github.com/lexDAO/lexlib-site/blob/main', // base URL for the docs repository
     titleSuffix: ' - LexDAO',
     nextLinks: true,
     prevLinks: true,
