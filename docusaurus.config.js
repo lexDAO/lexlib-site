@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          'https://github.com/lexdao/lexlib-sitetree/main',
+          'https://github.com/lexDAO/lexlib-site/blob/main/',
         },
         blog: {
           showReadingTime: true,
