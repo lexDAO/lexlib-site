@@ -1,0 +1,19 @@
+:root {
+    --ifm-color-primary: hsl(81, 67.0%, 50.0%);
+    --ifm-color-primary-dark: hsl(80, 68.3%, 46.9%);
+    --ifm-color-primary-darker: hsl(75, 80.0%, 26.0%);
+    --ifm-color-primary-darkest: hsl(78, 70.0%, 11.5%);
+    --ifm-color-primary-light: hsl(76, 61.7%, 45.1%);
+    --ifm-color-primary-lighter: hsl(82, 65.0%, 61.8%);
+    --ifm-color-primary-lightest: hsl(82, 65.0%, 74.6%);
+}
+
+:root[data-theme='dark'] {
+    --ifm-color-primary: hsl(81, 67.0%, 50.0%);
+    --ifm-color-primary-dark: hsl(80, 68.3%, 46.9%);
+    --ifm-color-primary-darker: hsl(75, 80.0%, 26.0%);
+    --ifm-color-primary-darkest: hsl(78, 70.0%, 11.5%);
+    --ifm-color-primary-light: hsl(76, 61.7%, 45.1%);
+    --ifm-color-primary-lighter: hsl(82, 65.0%, 61.8%);
+    --ifm-color-primary-lightest: hsl(82, 65.0%, 74.6%);
+}
